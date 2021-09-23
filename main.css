@@ -1,0 +1,12 @@
+div {
+    margin: 100px auto;
+    width: 400px;
+    background-color: yellow;
+    color: red;
+}
+button {
+    margin: 20px auto;
+    width: 100px;
+    height: 20px;
+    font-size: 15px;
+}
